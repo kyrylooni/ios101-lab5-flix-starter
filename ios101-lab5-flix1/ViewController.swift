@@ -4,7 +4,7 @@
 //
 
 import UIKit
-import Nuke
+import NukeExtensions
 
 // TODO: Add table view data source conformance
 class ViewController: UIViewController {
